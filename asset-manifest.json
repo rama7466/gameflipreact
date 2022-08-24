@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gameflipreact/static/css/main.d51d28a0.chunk.css",
+    "main.js": "/gameflipreact/static/js/main.d33ac5b7.chunk.js",
+    "main.js.map": "/gameflipreact/static/js/main.d33ac5b7.chunk.js.map",
+    "runtime-main.js": "/gameflipreact/static/js/runtime-main.784950c9.js",
+    "runtime-main.js.map": "/gameflipreact/static/js/runtime-main.784950c9.js.map",
+    "static/js/2.2edf2aec.chunk.js": "/gameflipreact/static/js/2.2edf2aec.chunk.js",
+    "static/js/2.2edf2aec.chunk.js.map": "/gameflipreact/static/js/2.2edf2aec.chunk.js.map",
+    "index.html": "/gameflipreact/index.html",
+    "static/css/main.d51d28a0.chunk.css.map": "/gameflipreact/static/css/main.d51d28a0.chunk.css.map",
+    "static/js/2.2edf2aec.chunk.js.LICENSE.txt": "/gameflipreact/static/js/2.2edf2aec.chunk.js.LICENSE.txt",
+    "static/media/alucard.58692bf6.png": "/gameflipreact/static/media/alucard.58692bf6.png",
+    "static/media/amon.d66e94f0.png": "/gameflipreact/static/media/amon.d66e94f0.png",
+    "static/media/granger.38c5dce7.png": "/gameflipreact/static/media/granger.38c5dce7.png",
+    "static/media/julian.1761ae1e.png": "/gameflipreact/static/media/julian.1761ae1e.png",
+    "static/media/layla.4cdd62bb.png": "/gameflipreact/static/media/layla.4cdd62bb.png",
+    "static/media/index.css": "/gameflipreact/static/media/map.0207ccb7.jpg",
+    "static/media/mobile.cfa07d2c.webp": "/gameflipreact/static/media/mobile.cfa07d2c.webp",
+    "static/media/yin.078fc150.png": "/gameflipreact/static/media/yin.078fc150.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.784950c9.js",
+    "static/js/2.2edf2aec.chunk.js",
+    "static/css/main.d51d28a0.chunk.css",
+    "static/js/main.d33ac5b7.chunk.js"
+  ]
+}
